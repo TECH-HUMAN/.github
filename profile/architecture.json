@@ -1,0 +1,59 @@
+{
+  "version": "2026-05-17",
+  "title": "Arquitetura pública Tech Human",
+  "subtitle": "Da leitura de maturidade à execução governada com IA",
+  "note": "Snapshot público. A documentação estratégica profunda permanece nos repositórios e docs canônicos.",
+  "nodes": [
+    {
+      "eyebrow": "empresa comercial",
+      "title": "Tech Human",
+      "description": "Porta de confiança para diagnosticar, estruturar, construir e governar IA em empresas.",
+      "accent": "lime"
+    },
+    {
+      "eyebrow": "triage",
+      "title": "BMAI Diagnóstico",
+      "description": "Entrada leve para medir maturidade, riscos, prontidão e próximo passo antes de comprar IA.",
+      "accent": "lime"
+    },
+    {
+      "eyebrow": "portas de valor",
+      "title": "Direcionamento",
+      "description": "O diagnóstico aponta qual conversa comercial faz sentido, sem vender o ecossistema inteiro.",
+      "accent": "cyan",
+      "children": [
+        "AI Literacy",
+        "AI-First Blueprint",
+        "Trust Score",
+        "CTO aaS + Squad"
+      ]
+    },
+    {
+      "eyebrow": "execução",
+      "title": "TH Build + JARVIS",
+      "description": "Construção e correção com método, agentes, testes, documentação e critérios claros de aceite.",
+      "accent": "violet"
+    },
+    {
+      "eyebrow": "operação",
+      "title": "Memória e governança",
+      "description": "Adoção vira rotina quando decisões, pessoas, evidências e evolução ficam registradas.",
+      "accent": "emerald",
+      "children": [
+        "NeedyU.ai",
+        "THunting",
+        "Governança Contínua"
+      ]
+    },
+    {
+      "eyebrow": "venture builder",
+      "title": "Trustyu.ai",
+      "description": "Quando uma dor recorrente vira padrão repetível, pode evoluir para Forge, SaaS, equity ou exit.",
+      "accent": "amber",
+      "children": [
+        "Trustyu Forge",
+        "Trustyu Score"
+      ]
+    }
+  ]
+}

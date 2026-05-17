@@ -5,6 +5,14 @@ Technology with human purpose.
 We build digital products, data platforms and AI solutions that help companies grow with clarity,
 efficiency and real impact.
 
+<p align="center">
+  <img src="./techhuman-architecture.svg" alt="Public Tech Human business architecture map" width="100%">
+</p>
+
+This public map is a simple snapshot of how Tech Human connects diagnosis, governance, execution,
+operating memory and ecosystem ventures. Strategic playbooks and internal decision rules remain
+private by design.
+
 ## What We Build
 
 | Area | Focus |
