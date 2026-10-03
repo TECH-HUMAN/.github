@@ -13,7 +13,8 @@ remember, decide, act and resolve. Investment does not state ownership percentag
 flowchart LR
   TH[Tech Human] -->|investor| T[Trustyu.ai]
   TH -->|investor| N[NEEDYU]
-  T -->|develops V2 through| N
+  N -->|product version| NV2[NEEDYU V2 — pre-launch]
+  T -->|develops| NV2
   T --> L[Trustyu Lens]
   T --> S[Trustyu Score]
   T --> F[Trustyu Forge]
@@ -24,8 +25,8 @@ flowchart LR
 NEEDYU V2 remains in pre-launch. The SVG retained in this repository is a historical snapshot;
 the map and institutional roles above are current as of October 2026.
 
-This public map is a simple snapshot of how Tech Human connects diagnosis, governance, execution,
-operating memory and ecosystem ventures. Strategic playbooks and internal decision rules remain
+This public map shows institutional roles, solution capabilities and NEEDYU V2's pre-launch status.
+Strategic playbooks and internal decision rules remain
 private by design.
 
 ## What We Do
