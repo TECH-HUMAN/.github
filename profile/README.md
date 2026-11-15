@@ -50,6 +50,10 @@ private by design.
 - [techhuman.com.br](https://www.techhuman.com.br) - institutional website.
 - [LinkedIn](https://www.linkedin.com/company/techhumanbr/) - company updates.
 
+## Getting Started on GitHub
+
+Read the [organization guide](https://github.com/TECH-HUMAN/.github/blob/main/README.md) and [collaboration principles](https://github.com/TECH-HUMAN/.github/blob/main/CONTRIBUTING.md). Each project README explains its purpose, setup and canonical source. Repository access follows each project’s permissions.
+
 ## How We Work
 
 We believe AI only creates value when it is connected to business context, data quality, governance,
